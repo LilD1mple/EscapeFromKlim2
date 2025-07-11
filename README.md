@@ -1,5 +1,4 @@
-ESCAPE FROM KLIM 2
-Небольшой шуточный 3D-шутер с элементами визуальной новеллы от первого лица, созданный на движке Unity. 
+ESCAPE FROM KLIM 2 - небольшой шуточный 3D-шутер с элементами визуальной новеллы от первого лица, созданный на движке Unity. 
 
 <img width="2560" height="640" alt="image" src="https://github.com/user-attachments/assets/ed9acf3a-e7f4-46e4-8feb-43f02b733a53" />
 
